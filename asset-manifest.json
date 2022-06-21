@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d445f86.css",
-    "main.js": "/static/js/main.3b6de44c.js",
-    "static/media/Big_Two.png": "/static/media/Big_Two.f68e447802e1d4d2a554.png",
-    "static/media/Uni-HK.png": "/static/media/Uni-HK.599c4f44ead43b4c8619.png",
-    "static/media/bg_texture.jpg": "/static/media/bg_texture.aa5a321e5ca301ef68d2.jpg",
-    "static/media/Old-Portfolio.png": "/static/media/Old-Portfolio.087517a31260c735660b.png",
-    "static/media/dummy.jpg": "/static/media/dummy.51451b2acca4faf034c0.jpg",
-    "static/media/Play_And_Learn.png": "/static/media/Play_And_Learn.eb8ce412ee0bd8c4826f.png",
-    "static/media/Engro_Grammar_School_Logo.png": "/static/media/Engro_Grammar_School_Logo.68127d42a21c232a2afe.png",
-    "static/media/Breed.png": "/static/media/Breed.182dbe4e1eb38c404212.png",
-    "static/media/Masood_2.png": "/static/media/Masood_2.21e06f72c53ca40198a3.png",
-    "static/media/Masood_5.png": "/static/media/Masood_5.eb67fcbd4ec883859839.png",
-    "static/media/CV.pdf": "/static/media/CV.eff8b9322dcbb27690ab.pdf",
-    "static/media/Weava_1.png": "/static/media/Weava_1.61f13fb2b60b00336a4c.png",
-    "static/media/DORA.jpeg": "/static/media/DORA.3d90d9ffa6d170dc4a5a.jpeg",
-    "static/media/university-of-hong-kong-logo.png": "/static/media/university-of-hong-kong-logo.4af4873153b758e4e233.png",
-    "static/media/Notakto-AI.png": "/static/media/Notakto-AI.8c3d45e5ae13735a8346.png",
-    "index.html": "/index.html",
-    "main.8d445f86.css.map": "/static/css/main.8d445f86.css.map",
-    "main.3b6de44c.js.map": "/static/js/main.3b6de44c.js.map"
+    "main.css": "/portfolio-website/static/css/main.da05aafc.css",
+    "main.js": "/portfolio-website/static/js/main.76fd7342.js",
+    "static/media/Big_Two.png": "/portfolio-website/static/media/Big_Two.f68e447802e1d4d2a554.png",
+    "static/media/Uni-HK.png": "/portfolio-website/static/media/Uni-HK.599c4f44ead43b4c8619.png",
+    "static/media/bg_texture.jpg": "/portfolio-website/static/media/bg_texture.aa5a321e5ca301ef68d2.jpg",
+    "static/media/Old-Portfolio.png": "/portfolio-website/static/media/Old-Portfolio.087517a31260c735660b.png",
+    "static/media/dummy.jpg": "/portfolio-website/static/media/dummy.51451b2acca4faf034c0.jpg",
+    "static/media/Play_And_Learn.png": "/portfolio-website/static/media/Play_And_Learn.eb8ce412ee0bd8c4826f.png",
+    "static/media/Engro_Grammar_School_Logo.png": "/portfolio-website/static/media/Engro_Grammar_School_Logo.68127d42a21c232a2afe.png",
+    "static/media/Breed.png": "/portfolio-website/static/media/Breed.182dbe4e1eb38c404212.png",
+    "static/media/Masood_2.png": "/portfolio-website/static/media/Masood_2.21e06f72c53ca40198a3.png",
+    "static/media/Masood_5.png": "/portfolio-website/static/media/Masood_5.eb67fcbd4ec883859839.png",
+    "static/media/CV.pdf": "/portfolio-website/static/media/CV.eff8b9322dcbb27690ab.pdf",
+    "static/media/Weava_1.png": "/portfolio-website/static/media/Weava_1.61f13fb2b60b00336a4c.png",
+    "static/media/DORA.jpeg": "/portfolio-website/static/media/DORA.3d90d9ffa6d170dc4a5a.jpeg",
+    "static/media/university-of-hong-kong-logo.png": "/portfolio-website/static/media/university-of-hong-kong-logo.4af4873153b758e4e233.png",
+    "static/media/Notakto-AI.png": "/portfolio-website/static/media/Notakto-AI.8c3d45e5ae13735a8346.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.da05aafc.css.map": "/portfolio-website/static/css/main.da05aafc.css.map",
+    "main.76fd7342.js.map": "/portfolio-website/static/js/main.76fd7342.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d445f86.css",
-    "static/js/main.3b6de44c.js"
+    "static/css/main.da05aafc.css",
+    "static/js/main.76fd7342.js"
   ]
 }
