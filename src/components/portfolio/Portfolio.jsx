@@ -60,14 +60,14 @@ const data = [
     github: 'https://github.com/Masood-Ahmed271/AI_Voice_Companion',
     demo: 'https://www.youtube.com/shorts/wnEGYfPDHfA'
   },
-  {
-    id:8,
-    image: DUMMY,
-    title: "Newsfeed",
-    description: "It is a complete webapp project that uses HTML, CSS and JavaScript for the frontend and Node and Express.js for the backend along with MongoDB as the database.",
-    github: 'https://github.com',
-    demo: 'https://masoodahmad.dev'
-  }
+  // {
+  //   id:8,
+  //   image: DUMMY,
+  //   title: "Newsfeed",
+  //   description: "It is a complete webapp project that uses HTML, CSS and JavaScript for the frontend and Node and Express.js for the backend along with MongoDB as the database.",
+  //   github: 'https://github.com',
+  //   demo: 'https://masoodahmad.dev'
+  // }
 ]
 
 
