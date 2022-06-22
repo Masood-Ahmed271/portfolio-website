@@ -50,7 +50,7 @@ const data = [
     title: "A Sample Portfolio Website",
     description: "This is just a simple portfolio website build on pure HTML,CSS, and JavaScript.",
     github: 'https://github.com/Masood-Ahmed271/Masood-Ahmed271.github.io',
-    demo: 'https://masoodahmad.dev'
+    demo: 'https://masood-ahmed271.github.io/Masood-Portfolio/'
   },
   {
     id:6,

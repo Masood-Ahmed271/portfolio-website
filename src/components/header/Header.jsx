@@ -21,7 +21,7 @@ const Header = () => {
   return (
     <header>
       <div className="container header_container">
-        <h5>Hello I'm</h5>
+        <h4>Hello I'm</h4>
         <h1>Masood Ahmed</h1>
         {/* Need to use a loop for different options of work I do later */}
         <h5 className="text-light" ref={textRef} style={{height: "2rem"}}></h5>

@@ -2,7 +2,7 @@
   "name": "portfolio_website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://masood-ahmed271.github.io/portfolio-website/",
+  "homepage": "https://masood-ahmed271.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -15,6 +15,7 @@
     "react-scripts": "5.0.1",
     "react-tsparticles": "^2.0.6",
     "swiper": "^8.1.6",
+    "use-local-storage": "^2.3.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

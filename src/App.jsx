@@ -1,4 +1,5 @@
 import React from 'react'
+// import useLocalStorage from 'use-local-storage'
 import Header from './components/header/Header'
 import Nav from './components/nav/Nav'
 import About from './components/about/About'
@@ -12,10 +13,22 @@ import Footer from './components/footer/Footer'
 
 
 const App = () => {
-  console.log("Testing")
+
+  // const defaultlight = window.matchMedia('(prefers-color-scheme: light)').matches;
+  // const [theme, setTheme] = useLocalStorage('theme', defaultlight ? 'light' : 'dark');
+
+  // const switchTheme = () =>{
+  //   const newTheme = theme === 'dark' ? 'light' : 'dark';
+  //   setTheme(newTheme)
+  // }
   return (
       <>
         {/* <ParticleBackground /> */}
+        {/* <div className="app" data-theme={theme}>
+          <button onClick={switchTheme}>
+            Switch to {theme === 'light' ? 'Dark' : 'Light'} Theme
+          </button>
+        </div> */}
         <Header /> 
         <Nav />
         <About />
