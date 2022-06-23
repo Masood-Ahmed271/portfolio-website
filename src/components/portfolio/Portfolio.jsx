@@ -6,7 +6,7 @@ import NOTAKTOAI from "../../assets/Notakto-AI.png";
 import UNIHK from "../../assets/Uni-HK.png";
 import OLDPORTFOLIO from "../../assets/Old-Portfolio.png";
 import AIVOICE from "../../assets/DORA.jpeg";
-import DUMMY from "../../assets/dummy.jpg";
+import NEWSFEED from "../../assets/NewsFeed.png";
 
 
 // Crearting an array for producing portfolio projects accordingly
@@ -60,14 +60,14 @@ const data = [
     github: 'https://github.com/Masood-Ahmed271/AI_Voice_Companion',
     demo: 'https://www.youtube.com/shorts/wnEGYfPDHfA'
   },
-  // {
-  //   id:8,
-  //   image: DUMMY,
-  //   title: "Newsfeed",
-  //   description: "It is a complete webapp project that uses HTML, CSS and JavaScript for the frontend and Node and Express.js for the backend along with MongoDB as the database.",
-  //   github: 'https://github.com',
-  //   demo: 'https://masoodahmad.dev'
-  // }
+  {
+    id:8,
+    image: NEWSFEED,
+    title: "Newsfeed",
+    description: "It is a complete webapp project that uses HTML, CSS and JavaScript for the frontend and Node and Express.js for the backend along with MongoDB as the database.",
+    github: 'https://github.com/Masood-Ahmed271/Newsfeed',
+    demo: 'https://masood-ahmed271.github.io/Masood-Portfolio/'
+  }
 ]
 
 
