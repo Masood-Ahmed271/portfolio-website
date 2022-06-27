@@ -66,7 +66,7 @@ const data = [
     title: "Newsfeed",
     description: "It is a complete webapp project that uses HTML, CSS and JavaScript for the frontend and Node and Express.js for the backend along with MongoDB as the database.",
     github: 'https://github.com/Masood-Ahmed271/Newsfeed',
-    demo: 'https://masood-ahmed271.github.io/Masood-Portfolio/'
+    demo: 'https://youtu.be/8BRdLnlgYsY'
   }
 ]
 
