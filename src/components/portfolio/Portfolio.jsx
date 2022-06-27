@@ -7,6 +7,7 @@ import UNIHK from "../../assets/Uni-HK.png";
 import OLDPORTFOLIO from "../../assets/Old-Portfolio.png";
 import AIVOICE from "../../assets/DORA.jpeg";
 import NEWSFEED from "../../assets/NewsFeed.png";
+import ISHOP from "../../assets/ISHOP.png";
 
 
 // Crearting an array for producing portfolio projects accordingly
@@ -66,6 +67,14 @@ const data = [
     title: "Newsfeed",
     description: "It is a complete webapp project that uses HTML, CSS and JavaScript for the frontend and Node and Express.js for the backend along with MongoDB as the database.",
     github: 'https://github.com/Masood-Ahmed271/Newsfeed',
+    demo: 'https://youtu.be/8BRdLnlgYsY'
+  },
+  {
+    id:9,
+    image: ISHOP,
+    title: "IShop",
+    description: "It is a complete MERN Stack APP which depicts an e-commerce website",
+    github: 'https://github.com/Masood-Ahmed271/Ishop',
     demo: 'https://youtu.be/8BRdLnlgYsY'
   }
 ]
