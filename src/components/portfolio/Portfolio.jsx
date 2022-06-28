@@ -75,7 +75,7 @@ const data = [
     title: "IShop",
     description: "It is a complete MERN Stack APP which depicts an e-commerce website",
     github: 'https://github.com/Masood-Ahmed271/Ishop',
-    demo: 'https://youtu.be/8BRdLnlgYsY'
+    demo: 'https://youtu.be/LFLIZctv_FI'
   }
 ]
 
