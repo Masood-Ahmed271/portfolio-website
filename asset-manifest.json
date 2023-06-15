@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbe2bbc3.css",
-    "main.js": "/static/js/main.ed794221.js",
+    "main.css": "/static/css/main.4028613e.css",
+    "main.js": "/static/js/main.e6af19bd.js",
     "static/media/Big_Two.png": "/static/media/Big_Two.f68e447802e1d4d2a554.png",
     "static/media/Uni-HK.png": "/static/media/Uni-HK.599c4f44ead43b4c8619.png",
     "static/media/ISHOP.png": "/static/media/ISHOP.98e6150d2451d9e4e48b.png",
@@ -12,18 +12,19 @@
     "static/media/Engro_Grammar_School_Logo.png": "/static/media/Engro_Grammar_School_Logo.68127d42a21c232a2afe.png",
     "static/media/Breed.png": "/static/media/Breed.182dbe4e1eb38c404212.png",
     "static/media/Masood_2.png": "/static/media/Masood_2.21e06f72c53ca40198a3.png",
-    "static/media/CV.pdf": "/static/media/CV.8b369c9b6a2b633ed554.pdf",
+    "static/media/CV.pdf": "/static/media/CV.6aff99ac490cb94c1af4.pdf",
     "static/media/Masood_5.png": "/static/media/Masood_5.eb67fcbd4ec883859839.png",
+    "static/media/Technine.png": "/static/media/Technine.eeb0511695a65c2eae84.png",
     "static/media/Weava_1.png": "/static/media/Weava_1.61f13fb2b60b00336a4c.png",
     "static/media/DORA.jpeg": "/static/media/DORA.3d90d9ffa6d170dc4a5a.jpeg",
     "static/media/university-of-hong-kong-logo.png": "/static/media/university-of-hong-kong-logo.4af4873153b758e4e233.png",
     "static/media/Notakto-AI.png": "/static/media/Notakto-AI.8c3d45e5ae13735a8346.png",
     "index.html": "/index.html",
-    "main.bbe2bbc3.css.map": "/static/css/main.bbe2bbc3.css.map",
-    "main.ed794221.js.map": "/static/js/main.ed794221.js.map"
+    "main.4028613e.css.map": "/static/css/main.4028613e.css.map",
+    "main.e6af19bd.js.map": "/static/js/main.e6af19bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbe2bbc3.css",
-    "static/js/main.ed794221.js"
+    "static/css/main.4028613e.css",
+    "static/js/main.e6af19bd.js"
   ]
 }
