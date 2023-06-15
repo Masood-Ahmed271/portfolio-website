@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-          I am currently a junior at The University of Hong Kong pursuing Bachelor's of Engineering in the field of Computer Science with a minor in Finance and a minor in Inofrmation Systems with a focus on Financial Computing.
+          I am currently a Senior at The University of Hong Kong pursuing Bachelor's of Engineering in the field of Computer Science with a minor in Finance.
           <br/>
           Exploring new ideas and solving problems is what I look forward to. Besides coding, I am into sports and cooking.
           </p>
